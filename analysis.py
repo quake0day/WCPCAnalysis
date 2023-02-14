@@ -153,6 +153,6 @@ def error_analysis(df):
     plt.axis('equal')
     plt.show()
 
-#error_analysis(df)
+error_analysis(df)
 success_rate_per_contest(df1, df2, df3)
-#success_rate_per_question(df)
+success_rate_per_question(df)
